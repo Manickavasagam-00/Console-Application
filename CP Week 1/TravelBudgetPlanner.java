@@ -27,7 +27,7 @@ class TravelPlan {
         this.budget = budget;
     }
 }
-public class TBP{
+public class TravelBudgetPlanner{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ArrayList<TravelPlan> plans = new ArrayList<>();
